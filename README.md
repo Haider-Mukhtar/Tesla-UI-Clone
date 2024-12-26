@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tesla Website UI Clone using React JS and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Home Page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screencapture-localhost-5174-2024-12-19-17_07_37-min](https://github.com/user-attachments/assets/66a2ea23-b269-4249-8119-4729b6133ac9)
+
+## Authors
+
+- [Haider-Mukhtar](https://github.com/Haider-Mukhtar)

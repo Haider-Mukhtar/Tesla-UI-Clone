@@ -9,14 +9,14 @@ function HomeSection1() {
                 src={homepageHeroImage1} alt='Home Page Hero Image 1'
             />
             <div className='absolute top-28 w-full'>
-                <div className='text-white text-6xl font-bold text-center'>
+                <div className='text-white text-4xl sm:text-6xl font-bold text-center'>
                     0% APR Available
                 </div>
-                <div className='flex flex-row mt-8 gap-6 justify-center'>
-                    <button className='text-lg bg-gray-100 hover:bg-white px-20 py-2 rounded-md text-gray-700'>
+                <div className='flex flex-row mt-8 gap-4 sm:gap-6 justify-center'>
+                    <button className='text-lg font-semibold bg-gray-100 hover:bg-white px-8 sm:px-20 py-2 rounded-md text-gray-700'>
                         Order Model 3
                     </button>
-                    <button className='text-lg bg-gray-100 hover:bg-white px-20 py-2 rounded-md text-gray-700'>
+                    <button className='text-lg font-semibold bg-gray-100 hover:bg-white px-8 sm:px-20 py-2 rounded-md text-gray-700'>
                         Order Model Y
                     </button>
                 </div>

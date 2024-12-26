@@ -18,13 +18,13 @@ function HomeSection6() {
                         Lease Starting at $899/mo
                     </div>
                 </div>
-                <div className='flex flex-row mt-8 gap-6 justify-center'>
+                <div className='flex flex-row mt-8 gap-4 sm:gap-6 justify-center'>
                     <div className='border-t-4 border-gray-500 pt-1'>
-                        <button className='text-lg font-semibold bg-gray-900 opacity-90 hover:opacity-80 px-20 py-2 text-gray-400'>
+                        <button className='text-lg font-semibold bg-gray-900 opacity-90 hover:opacity-80 px-8 sm:px-20 py-2 text-gray-400'>
                             ORDER NOW
                         </button>
                     </div>
-                    <button className='text-lg font-semibold bg-gray-900 opacity-90 hover:opacity-80 px-20 py-2 text-gray-400'>
+                    <button className='text-lg font-semibold bg-gray-900 opacity-90 hover:opacity-80 px-8 sm:px-20 py-2 text-gray-400'>
                         LEARN MORE
                     </button>
                 </div>

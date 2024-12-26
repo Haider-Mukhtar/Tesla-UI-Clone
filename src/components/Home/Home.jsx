@@ -11,7 +11,7 @@ import HomeSection8 from './HomeSection8'
 import HomeSection9 from './HomeSection9'
 import HomeSection10 from './HomeSection10'
 import HomeVideo from './HomeVideo'
-import HomeTest from './HomeTest'
+import HomeText from './HomeText'
 import HomeFooterMenu from './HomeFooterMenu'
 
 function Home() {
@@ -29,8 +29,10 @@ function Home() {
             <HomeSection9 />
             <HomeSection10 />
             <HomeVideo />
-            <HomeTest />
+            <HomeText />
             <HomeFooterMenu />
+            {/*
+                */}
         </>
     )
 }

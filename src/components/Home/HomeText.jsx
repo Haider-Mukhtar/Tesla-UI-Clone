@@ -1,9 +1,9 @@
 import React from 'react'
 
-function HomeTest() {
+function HomeText() {
     return (
         <>
-            <div className='w-3/5 my-12 mx-auto'>
+            <div className='sm:w-3/5 w-4/5 my-8 sm:my-12 mx-auto'>
                 <div className='text-xs font-semibold text-center py-2'>
                     1 - Monthly lease payment excludes taxes and fees, is based on $44,990 Model Y Long Range Rear-Wheel Drive purchase price and is subject to change at any time. Requires $2,999 down with 36 months and 10,000 miles. Subject to credit approval and available in select U.S. states.
                     <span className='underline underline-offset-2 hover:underline-offset-4 cursor-pointer font-bold'>Terms apply.</span>
@@ -29,4 +29,4 @@ function HomeTest() {
     )
 }
 
-export default HomeTest
+export default HomeText

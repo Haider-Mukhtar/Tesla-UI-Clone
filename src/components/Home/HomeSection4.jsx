@@ -10,7 +10,7 @@ function HomeSection4() {
             />
             <div className='w-full h-screen relative top-0 py-16 flex flex-col justify-between '>
                 <div>
-                    <div className='text-white text-6xl font-bold text-center pb-2'>
+                    <div className='text-white text-4xl sm:text-6xl font-bold text-center pb-2'>
                         Model X
                     </div>
                     <div className='text-white text-4xl font-semibold text-center pb-1'>
@@ -22,11 +22,11 @@ function HomeSection4() {
                         and Est. Gas Savings $6,500
                     </div>
                 </div>
-                <div className='flex flex-row mt-8 gap-6 justify-center'>
-                    <button className='text-lg bg-blue-500 hover:bg-blue-600 px-20 py-2 rounded-md text-white'>
+                <div className='flex flex-row mt-8 gap-4 sm:gap-6 justify-center'>
+                    <button className='text-lg bg-blue-500 hover:bg-blue-600 px-8 sm:px-20 py-2 rounded-md text-white'>
                         Order Now
                     </button>
-                    <button className='text-lg bg-gray-100 hover:bg-white px-20 py-2 rounded-md text-black'>
+                    <button className='text-lg bg-gray-100 hover:bg-white px-8 sm:px-20 py-2 rounded-md text-black'>
                         Learn More
                     </button>
                 </div>

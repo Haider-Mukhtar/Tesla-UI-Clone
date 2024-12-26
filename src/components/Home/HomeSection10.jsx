@@ -10,7 +10,7 @@ function HomeSection10() {
             />
             <div className='w-full h-screen relative top-0 py-16 flex flex-col justify-between '>
                 <div>
-                    <div className='text-white text-6xl font-bold text-center pb-2'>
+                    <div className='text-white text-4xl sm:text-6xl font-bold text-center pb-2'>
                         Powerwall
                     </div>
                 </div>
